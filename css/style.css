@@ -1,0 +1,134 @@
+ body {background-color: #D4D3ED; background-image:
+     url('../images/fondo1.jpg');}
+      h1{color: #3E9FA1; font-family: Arial Rounded MT Bold, Arial Rounded MT Bold;text-align: center;font-size: 50px;}
+    p{color: #D11F5C; text-align: justify; 
+      font-family: Arial Rounded MT Bold, Arial Rounded MT Bold;
+     }
+      #container{
+        padding: 200px 10px 10px 250px;
+    width:800px;}
+     h2{font-size: 30px; color: #DA9500;}
+     #titulo1 {color: #D11F5C; font-family: Arial Rounded MT Bold, Arial Rounded MT Bold;
+               margin: auto;}
+    
+     #contenedor{margin: 10% 0% 20% 9%;width:1000px;}
+     .divimg{text-align: center;}
+     h3{font-size: 30px; color: #BE397B;}
+     p{color: #727176;}
+     #enlace {color: #000000;}
+     #color{color: #3E9FA1;}
+     .derecha{display:inline-block;margin: 3% 0% 20% 2%;}
+     #foot{margin: auto;
+
+            }
+            h4{color: #3E9FA1; font-family: Arial Rounded MT Bold, Arial Rounded MT Bold;text-align: center;
+            margin-top: 100px;font-size: 30px;}
+    th{background-color: #ADACB2;}
+    table{background-color: #F6F6F7;width:900px; margin:0 auto;}
+
+    #tienda{
+        padding: 50px 10px 10px 10px;margin-top: 20px;
+
+    }
+       
+    th{color: #fff; font-size: 20px}
+    tr{color:#0AB3D8;}
+  
+            body {background-color: #D4D3ED; background-image:
+     url('../images/fondosh4.png');}
+     *{
+                margin:0px;
+                padding:0px;
+
+            }
+            
+            #header {
+                margin:-20% 0% 20% 30%;
+                width:600px;
+                font-family:Arial, Helvetica, sans-serif;
+            }
+            
+            ul, ol {
+                list-style:none;
+            }
+            
+            .nav > li {
+                float:left;
+            }
+            
+            .nav li a {
+                background-color:#ADACB2;
+                color:#fff;
+                text-decoration:none;
+                padding:10px 12px;
+                display:block;
+            }
+            
+            .nav li a:hover {
+                background-color:#434343;
+            }
+            
+
+     h5{color: #3E9FA1; font-size: 30px}
+     h6{color: #5B5B5F;}
+     #mih2{color: #5B5B5F;}
+     body{background-color: #fff;}
+     p{
+          font-size:  14px;
+          color: #5B5B5F;
+          
+      }
+
+
+   #contacto{
+      margin: 0% 20% 0% 20%;
+      color: #5B5B5F;
+      padding: 0px 50px 10px 20px;
+      display:inline-block
+   }
+   .parrafos{
+       background-color: #191A21;
+       
+   }
+   label{font-weight: bold;}
+            
+
+   
+            <style
+   
+/*etiqueta universal para manejar la margen del menu*/
+
+         *{
+                margin:0px;
+                padding:0px;
+
+            }
+            
+            #header {
+                margin:-20% 0% 20% 30%;
+                width:600px;
+                font-family:Arial, Helvetica, sans-serif;
+            }
+            
+            ul, ol {
+                list-style:none;
+            }
+            
+            .menu li {
+                float:left;
+            }
+            
+            .menu li a {
+                background-color:#ADACB2;
+                color:#fff;
+                text-decoration:none;
+                padding:10px 12px;
+                display:block;
+            }
+            
+            .menu li a:hover {
+                background-color:#434343;
+            }
+            
+        
+            

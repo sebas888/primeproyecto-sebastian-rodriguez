@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+      <title>contac</title>
+     <!-- this is the second form for use css-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    </head>
+    <body>
+        <div id="header">
+            <ul class="menu">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="somos.html">Quienes somos</a></li>
+                <li><a href="mision.html">Misión</a></li>
+                <li><a href="vision.html">Visión</a></li>
+                <li><a href="precios.html">Tienda</a></li>
+                <li><a href="contac.html">Contacto</a></li>
+            </ul>
+        </div>
+    </body>
+</style>
+</head>
+<body>
+    <div id="contacto"><br><br>
+        <h5>Contactanos</h5>
+        <form>
+          <p><br>
+             <input type="radio" name="servicio" value="cliente" checked>cliente
+             <input type="radio" name="servicio" value="particular" checked>particular
+          <p><br>
+             <label>motivo del mensaje?</label>
+           </p>
+            <p>
+             <select name="motivo">
+              <option>Quejas</option>
+               <option>Sugerencia</option>
+               <option>Soporte tecnico</option>
+               <option>Nuevo servicio</option>
+               <option selected="selected">
+               --Seleccionar--</option>   
+             </select>
+             <p>
+          <p><br>
+            <label>Año de peticion</label>
+             <select name="anio">
+              <script type="text/javascript">
+                var i = 2018;
+                var f = 1960;
+                while(i>=f){document.write ("<option>" + i + "</option>");
+                i--;
+              }
+              </script>
+               
+             </select>
+          </p><br>
+         
+              <label>Día</label>
+             <select name="motivo">
+              <script type="text/javascript">
+                var i = 30;
+                var f = 1;
+                while(i>=f){document.write ("<option>" + i + "</option>");
+                i--;
+              }
+              </script> 
+             </select>
+           
+              <label>Mes</label>
+             <select name="motivo">
+              <option>Enero</option>
+               <option>Febrero</option>
+               <option>Marzo</option>
+               <option>Abril</option>
+               <option>Mayo</option>
+               <option>Junio</option>
+               <option>Julio</option>
+               <option>Agosto</option>
+               <option>Septiembre</option>
+               <option>Octubre</option>
+               <option>Noviembre</option>
+               <option>Diciembre</option>
+               <option selected="selected">
+               --Seleccionar--</option>   
+             </select>
+
+          </p>
+            <p><br>
+            <div clas="label"
+                style="color: #5B5B5F;">
+                <label>Nombre:</label>
+            </div>    
+            <input type="text" name="Nombre">
+          </p>  
+            <p>
+            <div clas="label"
+                style="color: #5B5B5F;">
+                <label>Documento:</label>
+            </div>        
+            <input type="text" name="Documento">
+            </p>
+            <p>
+            <div clas="label"
+            style="color: #5B5B5F;">
+                <label>Telefono:</label>
+            </div>        
+            <input type="text" name="telefono">
+            </p>
+            <p>
+            <div clas="label"
+            style="color: #5B5B5F;">
+                <label>Email:</label>
+            </div>        
+            <input type="text" name="email">
+            </p>
+            <p>
+                <label>Deja tu comentario..</label>
+            </p>    
+            <P>
+                <textarea name= "comentario" 
+                    cols="100" rows="20">
+                </textarea> 
+            </P>
+            <p>
+             <input type="submit" value="enviar mensaje">
+             <input type="reset" value="limpiar datos">
+
+    </div>
+</body>
+<html>
+
+
+             
+
+                     
+
